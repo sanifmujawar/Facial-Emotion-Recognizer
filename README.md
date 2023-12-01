@@ -1,4 +1,4 @@
-# 🚀 Facial Emotion Recognizer: React Portfolio 🚀
+# 🚀 Facial Emotion Recognizer🚀
 
 ## Overview 🌟
 
