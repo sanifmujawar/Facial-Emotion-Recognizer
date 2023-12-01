@@ -42,5 +42,3 @@ This project is open source and available under the MIT License. See the [LICENS
 For questions, feedback, or collaborations, please contact [Sanif Mujawar](mailto:sanifmujawar@gmail.com).
 
 ---
-
-Feel free to customize this README template with specific details related to your Facial Emotion Recognizer project. This template provides an outline for your project, helping you inform users about its purpose, features, how to get started, and where to find more information.
