@@ -39,7 +39,7 @@ This project is open source and available under the MIT License. See the [LICENS
 
 ## Contact Information 📧
 
-For questions, feedback, or collaborations, please contact [Your Name](mailto:your.email@email.com).
+For questions, feedback, or collaborations, please contact [Your Name](mailto:sanifmujawar@gmail.com).
 
 ---
 
